@@ -1,3 +1,5 @@
+-- Revising the Select Query I
+
 SELECT *
 FROM CITY
 WHERE CountryCode = 'USA'
